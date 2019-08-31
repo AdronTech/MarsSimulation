@@ -1,0 +1,9 @@
+[submodule "Plugins/ROSIntegrationVision"]
+	path = Plugins/ROSIntegrationVision
+	url = https://github.com/code-iai/ROSIntegrationVision.git
+[submodule "Plugins/ROSIntegration"]
+	path = Plugins/ROSIntegration
+	url = https://github.com/code-iai/ROSIntegration.git
+[submodule "Plugins/UnrealROScontrol"]
+	path = Plugins/UnrealROScontrol
+	url = https://github.com/AdronTech/UnrealROScontrol.git
